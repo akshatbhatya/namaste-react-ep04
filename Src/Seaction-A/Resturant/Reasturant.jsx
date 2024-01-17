@@ -14,7 +14,7 @@ function Reasturant() {
       <div className="product_container_list">
 
         
-         <ProductCard />
+         <ProductCard data={""} />
         <ProductCard />
         <ProductCard />
         <ProductCard />
