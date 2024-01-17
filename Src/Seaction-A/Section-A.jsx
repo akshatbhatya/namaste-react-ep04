@@ -1,10 +1,12 @@
 import React from 'react'
 import Searchbar from './SearchBar/Searchbar'
+import Reasturant from './Resturant/Reasturant'
 
 function SectionA() {
   return (
     <div>
-      <Searchbar/>
+      
+      <Reasturant/>
     </div>
   )
 }
