@@ -15,6 +15,10 @@ body
 productlist
 
 # productcard 
+- image
+- res name
+- rating 
+- price
 
 footer 
 
