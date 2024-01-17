@@ -4,6 +4,8 @@ import Searchbar from '../SearchBar/Searchbar'
 import "./Reasturant.css"
 import ProductCard from '../Product/ProductCard'
 
+import { ReasturantData } from '../../../Data/ReasturantData'
+
 function Reasturant() {
   return (
     <div className='productContainer'>
@@ -14,7 +16,12 @@ function Reasturant() {
       <div className="product_container_list">
 
         
-         <ProductCard data={""} />
+         {
+          ReasturantData.map((data)=>{
+            return <ProductCard data={data} />
+          })
+         }
+        {/* <ProductCard />
         <ProductCard />
         <ProductCard />
         <ProductCard />
@@ -24,8 +31,7 @@ function Reasturant() {
         <ProductCard />
         <ProductCard />
         <ProductCard />
-        <ProductCard />
-        <ProductCard /> 
+        <ProductCard />  */}
       </div>
 
 
