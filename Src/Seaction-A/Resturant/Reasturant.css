@@ -2,3 +2,7 @@
     margin:20px 0px;
     padding: 0px 40px;
 }
+
+.product_container_list{
+    display: flex;
+}

@@ -2,11 +2,22 @@ import React from 'react'
 import Searchbar from '../SearchBar/Searchbar'
 
 import "./Reasturant.css"
+import ProductCard from '../Product/ProductCard'
 
 function Reasturant() {
   return (
     <div className='productContainer'>
-      <Searchbar/>
+      <Searchbar />
+      <br />
+      <br />
+
+      <div className="product_container_list">
+
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+      </div>
 
 
     </div>
