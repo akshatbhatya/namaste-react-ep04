@@ -5,4 +5,8 @@
 
 .product_container_list{
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-evenly;
 }
