@@ -18,7 +18,12 @@ function Reasturant() {
         
          {
           ReasturantData.map((data)=>{
-            return <ProductCard data={data} />
+            return (
+                
+                  <ProductCard data={data} key={data.info.id} />
+               
+            )
+            
           })
          }
         {/* <ProductCard />

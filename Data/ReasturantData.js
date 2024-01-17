@@ -526,5 +526,500 @@ export const ReasturantData=[
             "link": "https://www.swiggy.com/restaurants/parkash-dhaba-gt-road-industrial-area-ludhiana-93735",
             "type": "WEBLINK"
           }
-        }
+        },
+        {
+            "info": {
+              "id": "85585",
+              "name": "Avtar Singh Khalsa Ice Cream",
+              "cloudinaryImageId": "kwivo7nfpxyi1bwfxahh",
+              "locality": "Naulakha Garden Colony",
+              "areaName": "Ludhiana Junction",
+              "costForTwo": "₹150 for two",
+              "cuisines": [
+                "Ice Cream",
+                "Desserts",
+                "Sweets",
+                "Beverages"
+              ],
+              "avgRating": 3.9,
+              "veg": true,
+              "parentId": "8567",
+              "avgRatingString": "3.9",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 2.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "29 mins",
+                "lastMileTravelString": "2.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 01:00:00",
+                "opened": true
+              },
+              "badges": {
+                
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/avtar-singh-khalsa-ice-cream-naulakha-garden-colony-ludhiana-junction-ludhiana-85585",
+              "type": "WEBLINK"
+            }
+          },
+          {
+            "info": {
+              "id": "185154",
+              "name": "Domino's Pizza",
+              "cloudinaryImageId": "p4auwbltmzjsrz0r65d1",
+              "locality": "Gill Road",
+              "areaName": "Jawahar Nagar",
+              "costForTwo": "₹400 for two",
+              "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Pastas",
+                "Desserts"
+              ],
+              "avgRating": 4.2,
+              "parentId": "2456",
+              "avgRatingString": "4.2",
+              "totalRatingsString": "500+",
+              "sla": {
+                "deliveryTime": 30,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 00:59:00",
+                "opened": true
+              },
+              "badges": {
+                
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80"
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/dominos-pizza-gill-road-jawahar-nagar-ludhiana-185154",
+              "type": "WEBLINK"
+            }
+          },
+          {
+            "info": {
+              "id": "768608",
+              "name": "Subway",
+              "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+              "locality": "Sherpur Chownk",
+              "areaName": "SPS Hospital",
+              "costForTwo": "₹350 for two",
+              "cuisines": [
+                "Salads",
+                "Snacks",
+                "Desserts",
+                "Beverages"
+              ],
+              "avgRating": 4,
+              "parentId": "2",
+              "avgRatingString": "4.0",
+              "totalRatingsString": "20+",
+              "sla": {
+                "deliveryTime": 45,
+                "lastMileTravel": 4.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "45 mins",
+                "lastMileTravelString": "4.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 04:00:00",
+                "opened": true
+              },
+              "badges": {
+                
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80"
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "isNewlyOnboarded": true,
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/subway-sherpur-chownk-sps-hospital-ludhiana-768608",
+              "type": "WEBLINK"
+            }
+          },
+          {
+            "info": {
+              "id": "405328",
+              "name": "Oven Story Pizza - Standout Toppings",
+              "cloudinaryImageId": "b39e4312ae2e9f65c3b58faaed83f488",
+              "locality": "Gill Tower",
+              "areaName": "Sarabha Nagar",
+              "costForTwo": "₹400 for two",
+              "cuisines": [
+                "Pizzas",
+                "Pastas",
+                "Italian",
+                "Desserts",
+                "Beverages"
+              ],
+              "avgRating": 4.2,
+              "parentId": "3534",
+              "avgRatingString": "4.2",
+              "totalRatingsString": "500+",
+              "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 5.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26-36 mins",
+                "lastMileTravelString": "5.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 03:00:00",
+                "opened": true
+              },
+              "badges": {
+                
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-gill-tower-sarabha-nagar-ludhiana-405328",
+              "type": "WEBLINK"
+            }
+          },
+          {
+            "info": {
+              "id": "83333",
+              "name": "Rawat Food Point",
+              "cloudinaryImageId": "xs2noptxs6jfwidxnghm",
+              "locality": "E Block",
+              "areaName": "BRS Nagar",
+              "costForTwo": "₹250 for two",
+              "cuisines": [
+                "Indian",
+                "Snacks",
+                "Pizzas",
+                "Burgers",
+                "North Indian"
+              ],
+              "avgRating": 4.2,
+              "veg": true,
+              "parentId": "167804",
+              "avgRatingString": "4.2",
+              "totalRatingsString": "1K+",
+              "sla": {
+                "deliveryTime": 47,
+                "lastMileTravel": 5.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "47 mins",
+                "lastMileTravelString": "5.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 02:00:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "description": "pureveg",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png"
+                        }
+                      }
+                    ]
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/rawat-food-point-e-block-brs-nagar-ludhiana-83333",
+              "type": "WEBLINK"
+            }
+          },
+          {
+            "info": {
+              "id": "419035",
+              "name": "Parkash Dhaba",
+              "cloudinaryImageId": "k3szarhbpsr4melgupwz",
+              "locality": "F Block Market",
+              "areaName": "BRS Nagar",
+              "costForTwo": "₹400 for two",
+              "cuisines": [
+                "North Indian",
+                "Mughlai",
+                "Tandoor",
+                "Snacks"
+              ],
+              "avgRating": 4.3,
+              "parentId": "22353",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "500+",
+              "sla": {
+                "deliveryTime": 51,
+                "lastMileTravel": 6.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "51 mins",
+                "lastMileTravelString": "6.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-01-18 04:00:00",
+                "opened": true
+              },
+              "badges": {
+                
+              },
+              "isOpen": true,
+              "aggregatedDiscountInfoV2": {
+                
+              },
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {
+                    
+                  },
+                  "textBased": {
+                    
+                  },
+                  "textExtendedBadges": {
+                    
+                  }
+                }
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {
+                    
+                  },
+                  "video": {
+                    
+                  }
+                }
+              },
+              "reviewsSummary": {
+                
+              },
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            },
+            "cta": {
+              "link": "https://www.swiggy.com/restaurants/parkash-dhaba-f-block-market-brs-nagar-ludhiana-419035",
+              "type": "WEBLINK"
+            }
+          },
 ]
